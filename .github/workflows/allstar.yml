@@ -24,7 +24,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 60
     container:
-      image: ghcr.io/ossf/allstar@sha256:a088ecec168b87733e454590a4a3ec9d927bbb4bcec6fe4829f52758f0e272e6 # v4.4.6-gha
+      image: ghcr.io/ossf/allstar@sha256:0e7de7d74f5dda9a9ca6031078c708960625434fef1e57d993d78ea9389d6e00 # v4.6-gha
       options: --user root
     environment: prod
     permissions: {}
