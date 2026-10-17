@@ -1,0 +1,7 @@
+optConfig:
+  optOutStrategy: false
+  optInRepos:
+  - agent-security
+  - psirtmap
+issueLabel: allstar
+action: issue
